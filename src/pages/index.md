@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/instagramArtboard 1 copy 4.png
+    image: images/marketing-playbook.png
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
