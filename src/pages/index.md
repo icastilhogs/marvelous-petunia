@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Seja sua melhor versão
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: Seu guia para nunca mais ter peças encalhadas e comunicar quem você é
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
