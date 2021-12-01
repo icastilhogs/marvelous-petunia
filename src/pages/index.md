@@ -229,7 +229,7 @@ sections:
   - type: cta_section
     title: Comece a ler hoje
     actions:
-      - label: Comece a ler agora
+      - label: Comprar
         url: /pricing
         style: primary
     actions_position: bottom
