@@ -9,7 +9,7 @@ sections:
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
     actions:
-      - label: Get the book
+      - label: Comprar o livro
         url: /pricing
         style: primary
         has_icon: true
